@@ -17,7 +17,8 @@
       "content_rating": "TV-G",
       "release_year": 2022,
       "images": {
-        "poster_16x9": "${base_path}/content/appointment-delayed/poster_1920x1080.jpg"
+        "poster_16x9": "${base_path}/content/appointment-delayed/poster_1920x1080.jpg",
+        "thumbnail_450x253": "${base_path}/content/appointment-delayed/thumbnail_450x253.jpg"
       },
       "sources": [
         {
@@ -43,7 +44,8 @@
       "content_rating": "TV-14",
       "release_year": 2022,
       "images": {
-        "poster_16x9": "${base_path}/content/behind-the-screams/poster_1920x1080.jpg"
+        "poster_16x9": "${base_path}/content/behind-the-screams/poster_1920x1080.jpg",
+        "thumbnail_450x253": "${base_path}/content/behind-the-screams/thumbnail_450x253.jpg"
       },
       "sources": [
         {
@@ -69,7 +71,8 @@
       "content_rating": "TV-G",
       "release_year": 2024,
       "images": {
-        "poster_16x9": "${base_path}/content/cereal-streamz/poster_1920x1080.jpg"
+        "poster_16x9": "${base_path}/content/cereal-streamz/poster_1920x1080.jpg",
+        "thumbnail_450x253": "${base_path}/content/cereal-streamz/thumbnail_450x253.jpg"
       },
       "sources": [
         {
@@ -95,7 +98,8 @@
       "content_rating": "TV-G",
       "release_year": 2019,
       "images": {
-        "poster_16x9": "${base_path}/content/feline-assistant/poster_1920x1080.jpg"
+        "poster_16x9": "${base_path}/content/feline-assistant/poster_1920x1080.jpg",
+        "thumbnail_450x253": "${base_path}/content/feline-assistant/thumbnail_450x253.jpg"
       },
       "sources": [
         {
@@ -121,7 +125,8 @@
       "content_rating": "TV-MA",
       "release_year": 2023,
       "images": {
-        "poster_16x9": "${base_path}/content/feline-resources/poster_1920x1080.jpg"
+        "poster_16x9": "${base_path}/content/feline-resources/poster_1920x1080.jpg",
+        "thumbnail_450x253": "${base_path}/content/feline-resources/thumbnail_450x253.jpg"
       },
       "sources": [
         {
@@ -147,7 +152,8 @@
       "content_rating": "TV-PG",
       "release_year": 2020,
       "images": {
-        "poster_16x9": "${base_path}/content/makeup-mayhem/poster_1920x1080.jpg"
+        "poster_16x9": "${base_path}/content/makeup-mayhem/poster_1920x1080.jpg",
+        "thumbnail_450x253": "${base_path}/content/makeup-mayhem/thumbnail_450x253.jpg"
       },
       "sources": [
         {
@@ -173,7 +179,8 @@
       "content_rating": "TV-MA",
       "release_year": 2023,
       "images": {
-        "poster_16x9": "${base_path}/content/meditation-in-beige/poster_1920x1080.jpg"
+        "poster_16x9": "${base_path}/content/meditation-in-beige/poster_1920x1080.jpg",
+        "thumbnail_450x253": "${base_path}/content/meditation-in-beige/thumbnail_450x253.jpg"
       },
       "sources": [
         {
@@ -199,7 +206,8 @@
       "content_rating": "TV-G",
       "release_year": 2024,
       "images": {
-        "poster_16x9": "${base_path}/content/parking-lot-mysteries/poster_1920x1080.jpg"
+        "poster_16x9": "${base_path}/content/parking-lot-mysteries/poster_1920x1080.jpg",
+        "thumbnail_450x253": "${base_path}/content/parking-lot-mysteries/thumbnail_450x253.jpg"
       },
       "sources": [
         {
@@ -225,7 +233,8 @@
       "content_rating": "TV-G",
       "release_year": 2020,
       "images": {
-        "poster_16x9": "${base_path}/content/parking-wars/poster_1920x1080.jpg"
+        "poster_16x9": "${base_path}/content/parking-wars/poster_1920x1080.jpg",
+        "thumbnail_450x253": "${base_path}/content/parking-wars/thumbnail_450x253.jpg"
       },
       "sources": [
         {
@@ -251,7 +260,8 @@
       "content_rating": "TV-MA",
       "release_year": 2020,
       "images": {
-        "poster_16x9": "${base_path}/content/patience-tested/poster_1920x1080.jpg"
+        "poster_16x9": "${base_path}/content/patience-tested/poster_1920x1080.jpg",
+        "thumbnail_450x253": "${base_path}/content/patience-tested/thumbnail_450x253.jpg"
       },
       "sources": [
         {
@@ -277,7 +287,8 @@
       "content_rating": "TV-MA",
       "release_year": 2020,
       "images": {
-        "poster_16x9": "${base_path}/content/spot-hunters-season-1/poster_1920x1080.jpg"
+        "poster_16x9": "${base_path}/content/spot-hunters-season-1/poster_1920x1080.jpg",
+        "thumbnail_450x253": "${base_path}/content/spot-hunters-season-1/thumbnail_450x253.jpg"
       },
       "sources": [
         {
@@ -303,7 +314,8 @@
       "content_rating": "TV-PG",
       "release_year": 2021,
       "images": {
-        "poster_16x9": "${base_path}/content/spot-hunters-season-2/poster_1920x1080.jpg"
+        "poster_16x9": "${base_path}/content/spot-hunters-season-2/poster_1920x1080.jpg",
+        "thumbnail_450x253": "${base_path}/content/spot-hunters-season-2/thumbnail_450x253.jpg"
       },
       "sources": [
         {
@@ -329,7 +341,8 @@
       "content_rating": "TV-MA",
       "release_year": 2024,
       "images": {
-        "poster_16x9": "${base_path}/content/startup-strays/poster_1920x1080.jpg"
+        "poster_16x9": "${base_path}/content/startup-strays/poster_1920x1080.jpg",
+        "thumbnail_450x253": "${base_path}/content/startup-strays/thumbnail_450x253.jpg"
       },
       "sources": [
         {
@@ -355,7 +368,8 @@
       "content_rating": "TV-G",
       "release_year": 2020,
       "images": {
-        "poster_16x9": "${base_path}/content/stone-cold-makeovers/poster_1920x1080.jpg"
+        "poster_16x9": "${base_path}/content/stone-cold-makeovers/poster_1920x1080.jpg",
+        "thumbnail_450x253": "${base_path}/content/stone-cold-makeovers/thumbnail_450x253.jpg"
       },
       "sources": [
         {
@@ -381,7 +395,8 @@
       "content_rating": "TV-PG",
       "release_year": 2020,
       "images": {
-        "poster_16x9": "${base_path}/content/the-accounting-cats/poster_1920x1080.jpg"
+        "poster_16x9": "${base_path}/content/the-accounting-cats/poster_1920x1080.jpg",
+        "thumbnail_450x253": "${base_path}/content/the-accounting-cats/thumbnail_450x253.jpg"
       },
       "sources": [
         {
@@ -407,7 +422,8 @@
       "content_rating": "TV-G",
       "release_year": 2021,
       "images": {
-        "poster_16x9": "${base_path}/content/the-art-of-waiting/poster_1920x1080.jpg"
+        "poster_16x9": "${base_path}/content/the-art-of-waiting/poster_1920x1080.jpg",
+        "thumbnail_450x253": "${base_path}/content/the-art-of-waiting/thumbnail_450x253.jpg"
       },
       "sources": [
         {
@@ -433,7 +449,8 @@
       "content_rating": "TV-PG",
       "release_year": 2021,
       "images": {
-        "poster_16x9": "${base_path}/content/the-beige-knight/poster_1920x1080.jpg"
+        "poster_16x9": "${base_path}/content/the-beige-knight/poster_1920x1080.jpg",
+        "thumbnail_450x253": "${base_path}/content/the-beige-knight/thumbnail_450x253.jpg"
       },
       "sources": [
         {
@@ -459,7 +476,8 @@
       "content_rating": "TV-PG",
       "release_year": 2021,
       "images": {
-        "poster_16x9": "${base_path}/content/the-boardroom-cats/poster_1920x1080.jpg"
+        "poster_16x9": "${base_path}/content/the-boardroom-cats/poster_1920x1080.jpg",
+        "thumbnail_450x253": "${base_path}/content/the-boardroom-cats/thumbnail_450x253.jpg"
       },
       "sources": [
         {
@@ -485,7 +503,8 @@
       "content_rating": "TV-PG",
       "release_year": 2020,
       "images": {
-        "poster_16x9": "${base_path}/content/the-corporate-litter/poster_1920x1080.jpg"
+        "poster_16x9": "${base_path}/content/the-corporate-litter/poster_1920x1080.jpg",
+        "thumbnail_450x253": "${base_path}/content/the-corporate-litter/thumbnail_450x253.jpg"
       },
       "sources": [
         {
@@ -511,7 +530,8 @@
       "content_rating": "TV-G",
       "release_year": 2019,
       "images": {
-        "poster_16x9": "${base_path}/content/the-endless-queue/poster_1920x1080.jpg"
+        "poster_16x9": "${base_path}/content/the-endless-queue/poster_1920x1080.jpg",
+        "thumbnail_450x253": "${base_path}/content/the-endless-queue/thumbnail_450x253.jpg"
       },
       "sources": [
         {
@@ -537,7 +557,8 @@
       "content_rating": "TV-PG",
       "release_year": 2023,
       "images": {
-        "poster_16x9": "${base_path}/content/the-extra-mile/poster_1920x1080.jpg"
+        "poster_16x9": "${base_path}/content/the-extra-mile/poster_1920x1080.jpg",
+        "thumbnail_450x253": "${base_path}/content/the-extra-mile/thumbnail_450x253.jpg"
       },
       "sources": [
         {
@@ -563,7 +584,8 @@
       "content_rating": "TV-14",
       "release_year": 2021,
       "images": {
-        "poster_16x9": "${base_path}/content/the-great-beige-bakeoff/poster_1920x1080.jpg"
+        "poster_16x9": "${base_path}/content/the-great-beige-bakeoff/poster_1920x1080.jpg",
+        "thumbnail_450x253": "${base_path}/content/the-great-beige-bakeoff/thumbnail_450x253.jpg"
       },
       "sources": [
         {
@@ -589,7 +611,8 @@
       "content_rating": "TV-14",
       "release_year": 2021,
       "images": {
-        "poster_16x9": "${base_path}/content/the-great-parking-shortage/poster_1920x1080.jpg"
+        "poster_16x9": "${base_path}/content/the-great-parking-shortage/poster_1920x1080.jpg",
+        "thumbnail_450x253": "${base_path}/content/the-great-parking-shortage/thumbnail_450x253.jpg"
       },
       "sources": [
         {
@@ -615,7 +638,8 @@
       "content_rating": "TV-MA",
       "release_year": 2024,
       "images": {
-        "poster_16x9": "${base_path}/content/the-it-cats/poster_1920x1080.jpg"
+        "poster_16x9": "${base_path}/content/the-it-cats/poster_1920x1080.jpg",
+        "thumbnail_450x253": "${base_path}/content/the-it-cats/thumbnail_450x253.jpg"
       },
       "sources": [
         {
@@ -641,7 +665,8 @@
       "content_rating": "TV-PG",
       "release_year": 2019,
       "images": {
-        "poster_16x9": "${base_path}/content/the-waiting-dead/poster_1920x1080.jpg"
+        "poster_16x9": "${base_path}/content/the-waiting-dead/poster_1920x1080.jpg",
+        "thumbnail_450x253": "${base_path}/content/the-waiting-dead/thumbnail_450x253.jpg"
       },
       "sources": [
         {
